@@ -11,4 +11,4 @@ function search(num){
 }
 
 search(9);
-search(42);
+search(60);
